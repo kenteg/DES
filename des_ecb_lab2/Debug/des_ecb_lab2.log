@@ -1,0 +1,17 @@
+﻿Сборка начата 29.04.2016 3:38:14.
+     1>Проект "C:\Users\Acer\Desktop\des_ecb_lab2\des_ecb_lab2\des_ecb_lab2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Программы\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt des_ecb_lab2.cpp
+         des_ecb_lab2.cpp
+     1>c:\users\acer\desktop\des_ecb_lab2\des_ecb_lab2\des_ecb_lab2.cpp(105): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+     1>c:\users\acer\desktop\des_ecb_lab2\des_ecb_lab2\des_ecb_lab2.cpp(74): warning C4101: add_count: неиспользованная локальная переменная
+       Link:
+         D:\Программы\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Acer\Desktop\des_ecb_lab2\Debug\des_ecb_lab2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Acer\Desktop\des_ecb_lab2\Debug\des_ecb_lab2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Acer\Desktop\des_ecb_lab2\Debug\des_ecb_lab2.lib" /MACHINE:X86 Debug\des.obj
+         Debug\des_ecb_lab2.obj
+         Debug\stdafx.obj
+         des_ecb_lab2.vcxproj -> C:\Users\Acer\Desktop\des_ecb_lab2\Debug\des_ecb_lab2.exe
+     1>Сборка проекта "C:\Users\Acer\Desktop\des_ecb_lab2\des_ecb_lab2\des_ecb_lab2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.15
